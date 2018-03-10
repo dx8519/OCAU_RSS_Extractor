@@ -8,3 +8,8 @@ A Java tool for downloading and uploading of the RSS file of the sales section i
 ## Dependencies
 * htmlunit
 * jgit
+
+
+## Usage
+Generate a token from Github and place it in a token.txt file.
+Create a login.txt file with OCAU username on first line and password on second line.
