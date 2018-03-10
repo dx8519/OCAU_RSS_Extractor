@@ -6,5 +6,5 @@ A Java tool for extracting the RSS file for the for sale section of the OCAU for
 ..* GitHub account
 
 ## Dependencies
-..* htmlunit
-..* jgit
+* htmlunit
+* jgit
