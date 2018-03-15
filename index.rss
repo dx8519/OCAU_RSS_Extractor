@@ -3,14 +3,14 @@
   <channel>
     <title>For Sale - PC Related</title>
     <description>Other items can be listed in their relevant Marketplace &lt;A href=" http://forums.overclockers.com.au/forumdisplay.php?f=77 "&gt;Non PC Related&lt;/a&gt;, &lt;A href="http://forums.overclockers.com.au/forumdisplay.php?s=&amp;forumid=71"&gt;Motoring&lt;/a&gt;, &lt;A href="http://forums.overclockers.com.au/forumdisplay.php?s=&amp;forumid=70"&gt;Photography&lt;/a&gt;, &lt;A href="http://forums.overclockers.com.au/forumdisplay.php?f=106"&gt;Mobile Phone&lt;/a&gt;, &lt;A href="http://forums.overclockers.com.au/forumdisplay.php?f=81"&gt;Musician&lt;/a&gt; and &lt;A href="http://forums.overclockers.com.au/forumdisplay.php?f=110"&gt;Retro PC&lt;/a&gt;</description>
-    <pubDate>Thu, 15 Mar 2018 22:57:00 +0000</pubDate>
-    <lastBuildDate>Thu, 15 Mar 2018 22:57:00 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Mar 2018 23:27:07 +0000</pubDate>
+    <lastBuildDate>Thu, 15 Mar 2018 23:27:07 +0000</lastBuildDate>
     <generator>OCAU Forums</generator>
     <link>https://forums.overclockers.com.au/forums/for-sale-pc-related.15/</link>
     <atom:link rel="self" type="application/rss+xml" href="https://forums.overclockers.com.au/forums/for-sale-pc-related.15/index.rss"/>
     <item>
       <title>Dell R710 x2</title>
-      <pubDate>Thu, 15 Mar 2018 22:45:41 +0000</pubDate>
+      <pubDate>Thu, 15 Mar 2018 23:10:00 +0000</pubDate>
       <link>https://forums.overclockers.com.au/threads/dell-r710-x2.1241762/</link>
       <guid>https://forums.overclockers.com.au/threads/dell-r710-x2.1241762/</guid>
       <author>invalid@example.com (roger895)</author>
@@ -26,7 +26,8 @@ GPWV42S<br />
 <span style="text-decoration: underline"><b>Rough specs for each server are:</b></span><br />
 <ul>
 <li>Dual X5570 CPU</li>
-<li>72GB RAM</li>
+<li>72GB RAM (18x 4GB DIMM)<br />
+</li>
 <li>2x 2 port 10Gbit SFP+ NIC</li>
 <li>4x 1Gbit Copper NIC<br />
 </li>
@@ -36,9 +37,10 @@ GPWV42S<br />
 <li>Front Bezel</li>
 <li>iDrac 6 Enterprise<br />
 </li>
-<li><b>No Raid Card</b>...</li>
+<li><b>No...</b></li>
 </ul><br />
 <a href="https://forums.overclockers.com.au/threads/dell-r710-x2.1241762/" class="internalLink">Dell R710 x2</a>]]></content:encoded>
+      <slash:comments>2</slash:comments>
     </item>
     <item>
       <title>Leftover Sale - DDR3 RAM, WiFi Card, E460, G530, LP Cards</title>
@@ -160,7 +162,7 @@ Res $80<br />
     </item>
     <item>
       <title>2x 16GB (2x8GB) Corsair Vengeance LPX 3000MHz kits</title>
-      <pubDate>Thu, 15 Mar 2018 20:33:41 +0000</pubDate>
+      <pubDate>Thu, 15 Mar 2018 23:09:58 +0000</pubDate>
       <link>https://forums.overclockers.com.au/threads/2x-16gb-2x8gb-corsair-vengeance-lpx-3000mhz-kits.1241752/</link>
       <guid>https://forums.overclockers.com.au/threads/2x-16gb-2x8gb-corsair-vengeance-lpx-3000mhz-kits.1241752/</guid>
       <author>invalid@example.com (Sipheren)</author>
@@ -176,6 +178,7 @@ Please keep all bids in the thread, open to offers, will close 24 hours after re
 Cheers<br />
 <br />
 <a href="https://www.corsair.com/uk/en/Categories/Products/Memory/VENGEANCE%C2%AE-LPX-16GB-%282x8GB%29-DDR4-DRAM-3000MHz-C15-Memory-Kit---Black/p/CMK16GX4M2B3000C15" target="_blank" class="externalLink" rel="nofollow">Link with pics</a>]]></content:encoded>
+      <slash:comments>1</slash:comments>
     </item>
     <item>
       <title>MetaBox Prime P670HP (17.3" 1080P, I7-7700HQ, GTX 1060 6GB, 16GB DDR4-2400, 480GB M2 PCIE SSD)</title>
